@@ -1,2 +1,2 @@
-# Flrxbox-compant-site
+# Flexbox-company-site
  Codeacademy Project
